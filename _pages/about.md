@@ -49,15 +49,15 @@ China Agricultural University<br>
 
 ------
 
-- **Master student in Plant Nutrition(2022-Exp.2024)**
+- **Master student in Plant Nutrition (2022-Exp.2024)**
 
   College of Resources and Environmental Sciences (CRES), CAU, Beijing 
 
-- **Undergraduate student majoring in Plant Nutrition(2018-2022)**
+- **Undergraduate student majoring in Plant Nutrition (2018-2022)**
 
   College of Resources and Environmental Sciences (CRES), CAU, Beijing
 
-- **Undergraduate student minoring in Data Science and Big Data Technology(2020-2022)**
+- **Undergraduate student minoring in Data Science and Big Data Technology (2020-2022)**
 
   College of Information and Electrical Engineering (CIEE), CAU, Beijing
 
