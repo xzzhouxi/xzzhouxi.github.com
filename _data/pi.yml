@@ -1,0 +1,24 @@
+- name: Xi ZHOU 周希
+  photo: headshot.jpg
+  info: China Agricultural University
+  email: zhoux@cau.edu.cn
+  github: https://github.com/x1zh0u
+  researchgate: https://www.researchgate.net/profile/Xi-Zhou-45
+  # scholar: https://scholar.google.com/citations?user=B7vSqZsAAAAJ
+  cv: cv/cv-xizhou.pdf
+  instagram: https://www.instagram.com/uxxssic/
+  twitter: https://twitter.com/xzzhouxi
+  linkedin: https://www.linkedin.com/in/xizhou98/
+  # Change the number below to the number of "educations" you have (up to 6)
+  number_educ: 3
+  education1: ""
+
+  # education4: 
+  # education5: 
+  # education6: 
+  education1short: She/her
+  education2short: (Expected 2024) Master of Science (Agr.) in Plant Nutrition
+  education3short: (2022) B.S. Resources and Environmental Sciences, CAU
+  # education4short: 
+  # education5short: 
+  # education6short: 
