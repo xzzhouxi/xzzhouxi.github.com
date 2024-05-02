@@ -30,7 +30,6 @@ nav_pages:
   - name: research
   - name: activity
   - name: about
-  - name: news
 
 include:
   - .htaccess
