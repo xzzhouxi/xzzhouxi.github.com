@@ -40,7 +40,10 @@ iframe {
  <img src="{{ site.url }}{{ site.baseurl }}/images/event1.jpg" height="150"/> 
  <img src="{{ site.url }}{{ site.baseurl }}/images/event2.jpg" height="150"/></center><br>
 
-I recently participated in the 11th Symposium on Geomicrobiology organized by the Chinese Society for Microbiology and received the prestigious Best Poster Award. This event provided a unique platform to exchange ideas and collaborate with leading experts in the field, and I am excited to continue my research in geomicrobiology, leveraging the insights gained from this symposium.
+I recently participated in the 11th Symposium on Geomicrobiology organized by the Chinese Society for Microbiology and received the prestigious Best Poster Award. This event provided a unique platform to exchange ideas and collaborate with leading experts in the field, and I am excited to continue my research in geomicrobiology, leveraging the insights gained from this symposium. 
+<a href="{{ site.url }}{{ site.baseurl }}/activity/poster2023" target="_blank">
+  Discover My Award-Winning Poster from the 11th Symposium on Geomicrobiology
+</a>
 </div>
 </div>
 
