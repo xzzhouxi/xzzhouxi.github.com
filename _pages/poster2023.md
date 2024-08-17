@@ -30,9 +30,15 @@ iframe {
 }
 </style>
 
-<center><br>
+<center>
  <img src="{{ site.url }}{{ site.baseurl }}/images/2023-06-07-poster.jpg" width="100%" /> 
 
+<br>
+<br>
+
+<a href="{{ site.url }}{{ site.baseurl }}/activity" target="_blank">
+  Go back
+</a>
 
 
 
