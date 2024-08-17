@@ -36,9 +36,10 @@ iframe {
 <br>
 <br>
 
+<p style="text-align: right;">
 <a href="{{ site.url }}{{ site.baseurl }}/activity" target="_blank">
   Go back
 </a>
-
+</p>
 
 
