@@ -31,7 +31,7 @@ iframe {
 </style>
 
 <center><br>
- <img src="{{ site.url }}{{ site.baseurl }}/images/2023-06-07-poster.jpg" /> 
+ <img src="{{ site.url }}{{ site.baseurl }}/images/2023-06-07-poster.jpg" width="60%" /> 
 
 </center></br>
 
