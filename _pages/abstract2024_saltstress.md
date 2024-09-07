@@ -1,10 +1,8 @@
-
-
 ---
 title: "abstract2024_saltstress"
 layout: gridlay
 sitemap: false
-permalink: /activity/abstract2024_saltstress.md
+permalink: /research/abstract2024_saltstress
 ---
 
 <style>
@@ -31,6 +29,7 @@ iframe {
   vertical-align: middle;
 }
 </style>
+
  
 <br>
 <p style="text-align: right;">
