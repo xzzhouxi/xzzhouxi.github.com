@@ -6,17 +6,22 @@ permalink: /
 ---
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-I am a master student at China Agricultural University, Beijing. My research is centered around the fascinating realm of soil microbiome dynamics, bioinformatics, and the intricate interplay between plants and their root systems. 
-</div>
-</div>
-My current investigations revolve around the **methanogenic food web thriving within paddy soils**, utilization meta-omics such as **metatranscriptomics**, **metagenomics**, and **metabolomics**. 
-Omics-based approaches are powerful tools for unraveling the structural and functional responses of microbial communities in paddy soils to environmental perturbations, including drought, salt stress, extreme temperature, and biotic stress. My fervent passion lies in unraveling the intricate microbial interactions thriving in anoxic environments.
+Welcome to Xi's Research Hub!
 
-**Currently, I am actively seeking a distinguished Ph.D. position to further expand my scholarly pursuits.**
+Nature acts as a giant methane reactor, with billions of microbes influencing global carbon cycles. My journey began at China Agricultural University, where my fascination with microbes took off. Join me as we explore the hidden world of methane cycling and microbial interactions!
+
+</div>
+</div>
+
+I am a researcher in microbial ecology, focusing on archaea, viruses, and methane cycling. I completed my MSc at China Agricultural University, where I explored methanogenic food webs in rice paddies under stress conditions.
+
+My research investigates how microbes interact with their environment and how these interactions affect greenhouse gases and carbon cycles. I use bioinformatics techniques to study these processes and am interested in how viruses impact archaea and methanogensis.
+
+**I am currently seeking a Ph.D. position** to advance my research in geomicrobiology and contribute to understanding microbial ecology’s role in environmental science and climate change.
 
 #### Research Interests
 
-- Environmental microbiology
 - Microbial community ecology and evolution
-- Host-phage interaction
+- Archaeal biology
+- Virus-host interaction
 - Bioinformatics (and AI)
