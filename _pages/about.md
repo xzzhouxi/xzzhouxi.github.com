@@ -219,13 +219,22 @@ China Agricultural University<br>
 #### PERSONAL
 
 ------
+I’m a strong believer in lifelong learning and have a wide range of interests, though I sometimes keep them a bit surface-level. The one thing that’s stuck with me for the long haul? Research. It’s both thrilling and, occasionally, torturous.
 
-##### *Habits*
+##### *A few fun things about me:*
 
-- Clarinet
-- Dancing (Pop/Voguing/Waacking)
-- Jogging
-- Oil painting
+- **Board games**: I enjoy [guandan](https://en.wikipedia.org/wiki/Guandan) and [mahjong](https://en.wikipedia.org/wiki/Mahjong) – always up for a game if you are!
+- **Music**: My playlists span pop, indie, R&B, disco funk, with a dash of hip-hop. I listen to music for over 100,000 minutes a year, which averages out to about 4.6 hours per day. I’m usually wearing AirPods, though, to be honest, they’re probably not playing music most of the time! ​
+- **Dancing**: Waacking is my favourite. You might catch me waacking or trying out some unskilled voguing (old way & vogue femme).
+- **Sports**: I ski, play badminton, and jog to clear my mind.
+- I lean politically left, with strong feminist and open-minded values. While I enjoy meaningful discussions with people of all ideologies, I prefer to avoid needless controversies. Silence is my way of dodging conflict, so if I’m quiet, don’t worry—I’m just keeping the peace!
+- I care deeply about **feminism**. I identify as a [**Marxist feminist**](https://en.wikipedia.org/wiki/Marxist_feminism). Marxist feminism focuses on how capitalism contributes to women's oppression and advocates for dismantling both capitalist structures and patriarchy to achieve true gender equality.
+
+##### *Some more quirks:*
+
+- I love animals but feel conflicted about zoos. I love sloths, gorillas, squirrels and otters.
+- Nature > Fashion, any day.
+- I don't speak perfect English. Sometimes I speak Chinglish.
 
 ##### *MBTI*
 
@@ -233,12 +242,7 @@ China Agricultural University<br>
 
   *I usually vacillate on test between ‘E’ and ‘I’. Usually this means that the [NT archetype](https://en.wikipedia.org/wiki/Rational_temperament) is much stronger than the single value for ‘E/I’.*
 
-##### *Foreign Countries Visited On Missions or Toured*
 
-- the United States, exchange program in UC Davis (2019)
-- Japan, tourist (2018)
-- Turkey, tourist (2015)
-- Maldives, tourist (2013)
 
 </div>
 </div>
