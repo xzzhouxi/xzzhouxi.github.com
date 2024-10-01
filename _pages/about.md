@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/1a3b19f9-efaa-46af-b48e-df9dc4938961)![image](https://github.com/user-attachments/assets/d0fc3bb0-0593-452d-9c42-0aea45638946)---
+---
 title: "About"
 layout: gridlay
 sitemap: false
