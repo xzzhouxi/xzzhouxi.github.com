@@ -1,4 +1,4 @@
----
+![image](https://github.com/user-attachments/assets/1a3b19f9-efaa-46af-b48e-df9dc4938961)![image](https://github.com/user-attachments/assets/d0fc3bb0-0593-452d-9c42-0aea45638946)---
 title: "About"
 layout: gridlay
 sitemap: false
@@ -19,14 +19,14 @@ permalink: /about/
 Xi ZHOU
 </h2>
 Master of Science (Agr.) in Plant Nutrition<br>
-China Agriculture University, P. R. China
+China Agriculture University (CAU), P. R. China
 
 
 
 #### Coordinates
 
 College of Resources and Environmental Sciences<br>
-China Agricultural University<br>
+China Agricultural University (CAU)<br>
 2 Yuanmingyuan Xilu, Beijing 1000193, P. R. China
 
 <div>
@@ -49,7 +49,7 @@ China Agricultural University<br>
 
 ------
 
-- **Master student in Plant Nutrition (2022-Exp.2024)**
+- **Master student in Plant Nutrition (2022-2024)**
 
   College of Resources and Environmental Sciences (CRES), CAU, Beijing 
 
@@ -70,7 +70,8 @@ China Agricultural University<br>
 #### PUBLICATIONS & PRESENTATIONS
 
 ------
-
+- **Zhou X**, Li X, Bei QC, Wu XJ, Xu GH, Dong XZ, Cui ZL, Liesack W, Peng JJ* (under review, 2024) Time-series metatranscriptomics reveals differential salinity effects on the methanogenic food web in paddy soil.
+  
 - Peng JJ, **Zhou X (co-first author)**, Rensing C, Liesack W, Zhu Y-G (2024, Preprint) Soil microbial ecology through the lens of metatranscriptomics, Soil Ecology Letters.
   
 - Wu XJ, Bei SK, **Zhou X**, Luo Y, He ZB, Song CX, Yuan HM, Pivato B, Liesack W, Peng JJ (2023) Metagenomic insights into genetic factors driving bacterial niche differentiation between bulk and rhizosphere soils, Science of The Total Environment.
@@ -99,7 +100,7 @@ China Agricultural University<br>
 
 ***Bioinfomatics***
 
-- Microbiome Analysis: 16S rRNA (Qiime2, Dada2, phyloseq)
+- 16S rRNA (Qiime2, Dada2, phyloseq)
 - Genome-centric metagenomics: FastQC, Prodigal, Prokka, InterProScan, DIAMOND, HMMER, MEGAHIT, SPADES, metaBAT2, CONCOCT, CheckM, Bowtie2, CD-HIT, SAMtools, Kraken
 - Metatranscriptomics: Total-RNA-based and Double-RNA-Approach, SortMeRNA, Trinity, RNASpades, bbduk
 - Viral Identification: Virsorter2, VIBRANT, DeepVirFinder, CheckV
@@ -130,7 +131,7 @@ China Agricultural University<br>
 
 ##### **CAU Graduate Student Union** 
 
-*President, responsible for scientific innovation (07/2023-Present)*
+*President, responsible for scientific innovation (07/2023-04/2024)*
 
 - Organized and hosted lectures, academic competitions, and events to enhance the academic and social environment for graduate students.
 
@@ -165,7 +166,7 @@ China Agricultural University<br>
 
 ------
 
-- ***CAU Special Program on Agricultural Diplomacy, Team 4* (04/2023-Present)**  
+- ***CAU Special Program on Agricultural Diplomacy, Team 4* (04/2023-05/2024)**  
   China Agricultural University (CAU)  
   Certificate Granted
 
@@ -198,6 +199,7 @@ China Agricultural University<br>
 
 ------
 
+- Outstanding graduates, CAU (06/2024)
 - Merit Student Award, CAU (10/2023)
 - The 1st Prize Scholarship for Master's Degree, CAU (10/2023)
 - Advanced Individual of Cultural and Sports Activities, CAU (10/2023)
@@ -223,10 +225,10 @@ I’m a strong believer in lifelong learning and have a wide range of interests,
 
 ##### *A few fun things about me:*
 
-- **Board games**: I enjoy [guandan](https://en.wikipedia.org/wiki/Guandan) and [mahjong](https://en.wikipedia.org/wiki/Mahjong) – always up for a game if you are!
-- **Music**: My playlists span pop, indie, R&B, disco funk, with a dash of hip-hop. I listen to music for over 100,000 minutes a year, which averages out to about 4.6 hours per day. I’m usually wearing AirPods, though, to be honest, they’re probably not playing music most of the time! ​
-- **Dancing**: Waacking is my favourite. You might catch me waacking or trying out some unskilled voguing (old way & vogue femme).
-- **Sports**: I ski, play badminton, and jog to clear my mind.
+- **Board games**: I enjoy [guandan](https://en.wikipedia.org/wiki/Guandan) and [mahjong](https://en.wikipedia.org/wiki/Mahjong).
+- **Music**: My playlists span pop, indie, R&B, disco funk, with a dash of hip-hop. I listen to music for over 100,000 minutes a year, which averages out to about 4.6 hours per day. I’m usually wearing AirPods, though, to be honest, they’re probably not playing music most of the time.
+- **Dancing**: Waacking is my favourite. You might catch me trying out some unskilled voguing (old way & vogue femme).
+- **Sports**: I play badminton, and jog to clear my mind.
 - I lean politically left, with strong feminist and open-minded values. While I enjoy meaningful discussions with people of all ideologies, I prefer to avoid needless controversies. Silence is my way of dodging conflict, so if I’m quiet, don’t worry—I’m just keeping the peace!
 - I care deeply about **feminism**. I identify as a [**Marxist feminist**](https://en.wikipedia.org/wiki/Marxist_feminism). Marxist feminism focuses on how capitalism contributes to women's oppression and advocates for dismantling both capitalist structures and patriarchy to achieve true gender equality.
 
@@ -240,7 +242,7 @@ I’m a strong believer in lifelong learning and have a wide range of interests,
 
 - ENFP/INFP
 
-  *I usually vacillate on test between ‘E’ and ‘I’. Usually this means that the [NT archetype](https://en.wikipedia.org/wiki/Rational_temperament) is much stronger than the single value for ‘E/I’.*
+  *I usually vacillate on test between ‘E’ and ‘I’. Usually this means that the [NF archetype](https://en.wikipedia.org/wiki/Rational_temperament) is much stronger than the single value for ‘E/I’.*
 
 
 
