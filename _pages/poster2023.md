@@ -2,7 +2,7 @@
 title: "poster"
 layout: gridlay
 sitemap: false
-permalink: /activity/poster2023
+permalink: /activity/poster2024
 ---
 
 <style>
@@ -31,7 +31,7 @@ iframe {
 </style>
 
 <center>
- <img src="{{ site.url }}{{ site.baseurl }}/images/2023-06-07-poster.jpg" width="100%" /> 
+ <img src="{{ site.url }}{{ site.baseurl }}/images/2024-11-08-poster.jpg" width="100%" /> 
 
 <br>
 <br>
