@@ -34,7 +34,7 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h5>Working as Research Assistant at the School of Public Health, The University of Hong Kong</h5>
+<h5>Working as Research Assistant at the University of Hong Kong</h5>
 <h6>Since November 2024</h6>
 
 I am working in the Laboratory of Data Discovery for Health (D²4H) on meta-omics research. My work focuses on preparing samples and organizing and analyzing sequencing data to better understand microbial communities in public health contexts.
@@ -89,6 +89,19 @@ Delighted to be a part of the 5th CAU Special Program on Agricultural Diplomacy!
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 
+- ***January, 2023 Sampling***
+
+  Soil sampling in Qingyuan City, Guangdong Province.
+
+  <center>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling1.jpg" height="200"/> 
+  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling2.jpg" height="200"/> 
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+
 <h5>Cornell - CAU Joint Course "Agriculture, Food, and the Environment"</h5>
 <h6>Fall semester, 2022-2023</h6>
 <center><br>
@@ -98,5 +111,32 @@ One of the highlights of this program was the course project, "Connect the Straw
 </div>
 </div>
 
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+
+- ***August, 2022 First global oral presentation!***
+
+  **"Soil Metatranscriptomics: Opportunities and Challenges"**at [1st Sino-European Microbial Omics Workshop for Young Scientist](https://zihuan.cau.edu.cn/art/2022/7/30/art_24818_874863.html)
+
+  <center>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/202207shot.png" height="150"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/202207new.png" height="150"/> 
+
+</div>
+</div>
+
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+
+- ***June, 2022***
+
+  My undergraduate project was awarded excellent thesis!
+  
+  Title: Metatranscriptomics resolves the detrimental impact of salt stress on the paddy soil methanogens into population-specific responses (PI: Jingjing Peng)
+
+<center>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2022graduate2.jpg" height="150"/>
+</center>
 
 
