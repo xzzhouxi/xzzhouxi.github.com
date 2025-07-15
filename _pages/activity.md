@@ -1,12 +1,10 @@
-
-
-
 ---
 title: "Activity"
 layout: gridlay
 sitemap: false
 permalink: /activity/
 ---
+
 <style>
 .timeline {
   position: relative;
