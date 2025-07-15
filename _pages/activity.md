@@ -85,6 +85,23 @@ I presented a poster on how temperature affects interactions between archaea and
 </div>
 
 <!-- ====================================================== div ====================================================== -->
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+
+<h5>Master's Thesis Defended!</h5> 
+<h6>June, 2024</h6>
+
+<center><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024graduate1.jpg" height="200" style="margin: 10px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2024graduate2.jpg" height="200" style="margin: 10px;"/>
+</center><br>
+
+Thrilled to have successfully defended my master’s thesis on archaeal viruses in methane-driven ecosystems! My work explored how temperature shapes virus-host interactions and community dynamics in paddy soils. Huge thanks to my advisor Dr. Jingjing Peng for her constant support, and to my labmates—especially those who showed up to my defense hungover but present—you all made this moment unforgettable!
+
+</div>
+</div>
+
+<!-- ====================================================== div ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
