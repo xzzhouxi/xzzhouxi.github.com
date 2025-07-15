@@ -121,6 +121,23 @@ Thrilled to have successfully defended my master’s thesis on archaeal viruses 
 </div>
 
 <!-- ====================================================== div ====================================================== -->
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+
+<h5>Sharing My Voice at the CAU Graduate Student Congress</h5> 
+<h6>May, 2024</h6>
+
+<center><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024congress1.jpg" height="200" style="margin: 5px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024congress2.jpg" height="200" style="margin: 10px;"/>
+</center><br>
+
+As president of the CAU Graduate Student Union, I had the honor of chairing the annual Graduate Student Congress. Grateful for the opportunity to support a year of academic and student activities, and for meeting so many peers who share a passion for science and community building.
+
+</div>
+</div>
+
+<!-- ====================================================== div ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
