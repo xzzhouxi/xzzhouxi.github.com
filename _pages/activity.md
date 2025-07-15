@@ -33,6 +33,18 @@ iframe {
 
 ## Activity
 
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h5>Newly Published Paper: Virus–Host Interactions in Paddy Soil Methanogens </h5>
+<h6>January 2025</h6>
+
+Excited to share our recent publication exploring the virus–host relationships in methane-producing archaea from rice paddies! By combining metagenomic data and CRISPR-based analyses, we uncovered a diverse and coevolving viral community linked to key methanogens. I contributed to the bioinformatic analysis and development of the viral detection pipeline.
+
+[Read the paper here](https://academic.oup.com/ismecommun/article/5/1/ycaf088/8142314)
+
+</div>
+</div>
+
 <!-- ====================================================== div ====================================================== -->
 
 <div class="jumbotron">
@@ -52,8 +64,7 @@ I am working in the Laboratory of Data Discovery for Health (D²4H) on meta-omic
 <h5>Paricipating International Conference on Geo-Omics of Archaea (ICGOA) </h5>
 <h6>9-10 November, 2024</h6>
 <center><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/event3.jpg" height="150" style="margin: 10px;"/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/event4.jpg" height="150" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2025viruspaper.jpeg.jpg" height="300" style="margin: 10px;"/>
 </center><br>
 
 I presented a poster on how temperature affects interactions between archaea and viruses in paddy soils. This work showed how these interactions may influence methane production. I was honored to receive the Best Poster Award at the conference!
@@ -71,7 +82,7 @@ I presented a poster on how temperature affects interactions between archaea and
 <h5>Newly Published Paper: Soil Microbial Ecology Through Metatranscriptomics</h5>
 <h6>December, 2023</h6>
 <center><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/2023mtxpaper.jpg" height="200" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2023mtxpaper.jpg" height="400" style="margin: 10px;"/>
 </center><br>
 
 I am excited to share my first first-authored paper, published with my supervisor Dr. Jingjing Peng. We critically assess the challenges associated with various experimental and bioinformatic strategies that can be applied in soil microbial ecology through the lens of functional metatranscriptomics. We also demonstrate how recent methodological advancements in soil metatranscriptomics catalyze the development and expansion of emerging research fields.
@@ -79,7 +90,7 @@ I am excited to share my first first-authored paper, published with my superviso
 I am grateful to Dr. Peng for her guidance and to everyone who supported this work.
 
 [Read the paper here](https://link.springer.com/article/10.1007/s42832-023-0217-z)
-</a>
+
 </div>
 </div>
 
@@ -100,7 +111,6 @@ I recently participated in the 11th Symposium on Geomicrobiology organized by th
 
 Discover My Award-Winning Poster from the 11th Symposium on Geomicrobiology!
 
-</a>
 </div>
 </div>
 
@@ -112,7 +122,7 @@ Discover My Award-Winning Poster from the 11th Symposium on Geomicrobiology!
 <h5> Newly Published Paper about Bacterial Motility and Soil Niches </h5>
 <h6>June, 2023</h6>
 <center><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/2023nichepaper.jpg" height="200" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2023nichepaper.jpg" height="300" style="margin: 10px;"/>
 
 </center><br>
 
@@ -122,7 +132,7 @@ Our study used genome-resolved metagenomics to show that bacterial movement (mot
 
 I contributed by analyzing and comparing metatranscriptome data to better understand how these bacterial genes are expressed in different soil environments. Grateful for this opportunity!
 
-[link](https://doi.org/10.1016/j.scitotenv.2023.164221)
+[Read the paper here](https://doi.org/10.1016/j.scitotenv.2023.164221)
 
 </div>
 </div>
@@ -153,9 +163,9 @@ Delighted to be a part of the 5th CAU Special Program on Agricultural Diplomacy!
 <h6>January, 2023</h6>
 
 <center><br>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling1.jpg" height="200" style="margin: 10px;"/>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling2.jpg" height="200" style="margin: 10px;"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling3.jpg" height="200" style="margin: 10px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling1.jpg" height="200" style="margin: 5px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling2.jpg" height="200" style="margin: 5px;"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling3.jpg" height="200" style="margin: 5px;"/>
 </center><br>
 
 Soil sampling in my hometown, Qingyuan City, Guangdong Province.
