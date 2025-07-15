@@ -92,12 +92,12 @@ Discover My Award-Winning Poster from the 2024ICGOA!
 <h6>June, 2024</h6>
 
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/2024soilseminar1.jpg" height="180" style="margin: 5px;"/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/2024soilseminar2.jpg" height="180" style="margin: 5px;"/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/2024soilseminar3.jpg" height="180" style="margin: 5px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024soilseminar1.jpg" height="150" style="margin: 5px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024soilseminar2.jpg" height="150" style="margin: 5px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024soilseminar3.jpg" height="150" style="margin: 5px;"/>
 </center>
 
-Thrilled to have successfully defended my master’s thesis on archaeal viruses in methane-driven ecosystems! My work explored how temperature shapes virus-host interactions and community dynamics in paddy soils. Huge thanks to my advisor Dr. Jingjing Peng for her constant support, and to my labmates—especially those who showed up to my defense hungover but present—you all made this moment unforgettable!
+I participated in the China Soil Society's Soil Biology and Biochemistry Committee and Soil Health Cultivation and Sustainable Utilization Seminar in Changchun, Jilin. I was very happy to learn from soil experts about the importance of black soil, often called the "Panda of Farmland," and the significance of using biotechnology to effectively utilize black soil. I also appreciate the support from my supervisor Dr. Jingjing Peng.
 
 </div>
 </div>
