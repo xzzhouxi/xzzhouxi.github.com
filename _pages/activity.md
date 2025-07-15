@@ -68,11 +68,28 @@ I presented a poster on how temperature affects interactions between archaea and
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
+<h5>Newly Published Paper: Soil Microbial Ecology Through Metatranscriptomics</h5>
+<h6>December, 2023</h6>
+<center><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2023mtxpaper.jpg" height="200" style="margin: 10px;"/>
+</center><br>
+
+I am excited to share my first first-authored paper, published with my supervisor Dr. Jingjing Peng. We critically assess the challenges associated with various experimental and bioinformatic strategies that can be applied in soil microbial ecology through the lens of functional metatranscriptomics. We also demonstrate how recent methodological advancements in soil metatranscriptomics catalyze the development and expansion of emerging research fields.
+
+</a>
+</div>
+</div>
+
+<!-- ====================================================== div ====================================================== -->
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
 <h5>Paricipating 11th Symposium on Geomicrobiology</h5>
 <h6>6-9  June, 2023</h6>
 <center><br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/event1.jpg" height="150" style="margin: 10px;"/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/event2.jpg" height="150" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/event5.jpg" height="150" style="margin: 10px;"/>
 </center><br>
 
 I recently participated in the 11th Symposium on Geomicrobiology organized by the Chinese Society for Microbiology and received the prestigious Best Poster Award. This event provided a unique platform to exchange ideas and collaborate with leading experts in the field, and I am excited to continue my research in geomicrobiology, leveraging the insights gained from this symposium. 
@@ -87,14 +104,20 @@ I recently participated in the 11th Symposium on Geomicrobiology organized by th
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 
-<h5> Newly Published Paper about Metagenomic Insights into Bacterial Niche Differentiation </h5>
+<h5> Newly Published Paper about Bacterial Motility and Soil Niches </h5>
 <h6>June, 2023</h6>
 <center><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair1.jpg" height="150" style="margin: 10px;"/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair2.png" height="150" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2023nichepaper.jpg" height="200" style="margin: 10px;"/>
+
 </center><br>
 
-I am incredibly proud to share our newly published paper! As the third author, I could not be more excited as this marks my first publication. It has been an amazing journey working alongside my talented co-authors and under the guidance of our exceptional mentor. Grateful for this opportunity! [link](https://doi.org/10.1016/j.scitotenv.2023.164221)
+I am incredibly proud to share our newly published paper! As the third author, I could not be more excited as this marks my first publication. It has been an amazing journey working alongside my talented co-authors and under the guidance of our exceptional mentor.
+
+Our study used genome-resolved metagenomics to show that bacterial movement (motility) plays an important role in helping bacteria colonize rhizosphere. We found that highly motile bacteria have special genes that allow them to better use carbohydrates and nutrients, making them more common near plant roots than in bulk soil.
+
+I contributed by analyzing and comparing metatranscriptome data to better understand how these bacterial genes are expressed in different soil environments. Grateful for this opportunity!
+
+[link](https://doi.org/10.1016/j.scitotenv.2023.164221)
 
 </div>
 </div>
@@ -127,6 +150,7 @@ Delighted to be a part of the 5th CAU Special Program on Agricultural Diplomacy!
 <center><br>
   <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling1.jpg" height="200" style="margin: 10px;"/>
   <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling2.jpg" height="200" style="margin: 10px;"/>
+    <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling3.jpg" height="200" style="margin: 10px;"/>
 </center><br>
 
 Soil sampling in my hometown, Qingyuan City, Guangdong Province.
@@ -167,11 +191,7 @@ One of the highlights of this program was the course project, "Connect the Straw
 
 **"Soil Metatranscriptomics: Opportunities and Challenges"** at [1st Sino-European Microbial Omics Workshop for Young Scientists](https://zihuan.cau.edu.cn/art/2022/7/30/art_24818_874863.html).
 
-<br>
-
 I am very thankful to Dr. Jingjing Peng for her guidance and support, and to everyone at the workshop for the great experience.
-
-
 
 </div>
 </div>
@@ -185,6 +205,7 @@ I am very thankful to Dr. Jingjing Peng for her guidance and support, and to eve
 <h6>June, 2022</h6>
 
 <center><br>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2022graduate1.jpg" height="150" style="margin: 10px;"/>
   <img src="{{ site.url }}{{ site.baseurl }}/images/2022graduate2.jpg" height="150" style="margin: 10px;"/>
 </center><br>
 
@@ -192,12 +213,8 @@ I wrapped up my undergraduate journey with a thesis titled
 <b><i>"Metatranscriptomics resolves the detrimental impact of salt stress on the paddy soil methanogens into population-specific responses"</i></b>  
 under the kind guidance of Dr. Jingjing Peng.
 
-<br>
-
 Huge thanks to my supervisor and all lab members for their support throughout the way.  
 Happy to graduate! 🎓
-
-<br>
 
 I am excited to stay with the team for my Master's, continuing to explore the mysterious and fascinating world of methanogens!
 
