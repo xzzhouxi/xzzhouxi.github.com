@@ -40,7 +40,7 @@ iframe {
 <h6>January 2025</h6>
 
 <center><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/2025viruspaper.jpg" height="300" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2025viruspaper.jpg" height="350" style="margin: 10px;"/>
 </center><br>
 
 Excited to share our recent publication exploring the virus–host relationships in methane-producing archaea from rice paddies! By combining metagenomic data and CRISPR-based analyses, we uncovered a diverse and coevolving viral community linked to key methanogens. I contributed to the bioinformatic analysis and development of the viral detection pipeline.
@@ -71,16 +71,34 @@ I am working in the Laboratory of Data Discovery for Health (D²4H) on meta-omic
 <h6>9-10 November, 2024</h6>
 
 <center><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/event3.jpg" height="150" style="margin: 10px;"/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/event4.jpg" height="150" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/event3.jpg" height="200" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/event4.jpg" height="200" style="margin: 10px;"/>
 </center><br>
 
 
 I presented a poster on how temperature affects interactions between archaea and viruses in paddy soils. This work showed how these interactions may influence methane production. I was honored to receive the Best Poster Award at the conference!
 
 <a href="{{ site.url }}{{ site.baseurl }}/activity/poster2024" target="_blank">
-  Discover My Award-Winning Poster from the 2024ICGOA!
+Discover My Award-Winning Poster from the 2024ICGOA!
 </a>
+</div>
+</div>
+
+<!-- ====================================================== div ====================================================== -->
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+
+<h5>Participation in Soil Science Seminar on Black Soil Sustainability in Changchun</h5> 
+<h6>June, 2024</h6>
+
+<center>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024soilseminar1.jpg" height="200" style="margin: 5px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024soilseminar2.jpg" height="200" style="margin: 5px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024soilseminar3.jpg" height="200" style="margin: 5px;"/>
+</center>
+
+Thrilled to have successfully defended my master’s thesis on archaeal viruses in methane-driven ecosystems! My work explored how temperature shapes virus-host interactions and community dynamics in paddy soils. Huge thanks to my advisor Dr. Jingjing Peng for her constant support, and to my labmates—especially those who showed up to my defense hungover but present—you all made this moment unforgettable!
+
 </div>
 </div>
 
@@ -92,8 +110,9 @@ I presented a poster on how temperature affects interactions between archaea and
 <h6>June, 2024</h6>
 
 <center><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/2024graduate1.jpg" height="200" style="margin: 10px;"/>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2024graduate2.jpg" height="200" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024graduate1.jpg" height="200" style="margin: 5px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024graduate2.jpg" height="200" style="margin: 5px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2024graduate3.jpg" height="200" style="margin: 5px;"/>
 </center><br>
 
 Thrilled to have successfully defended my master’s thesis on archaeal viruses in methane-driven ecosystems! My work explored how temperature shapes virus-host interactions and community dynamics in paddy soils. Huge thanks to my advisor Dr. Jingjing Peng for her constant support, and to my labmates—especially those who showed up to my defense hungover but present—you all made this moment unforgettable!
@@ -129,9 +148,9 @@ I am grateful to Dr. Peng for her guidance and to everyone who supported this wo
 <h6>6-9  June, 2023</h6>
   
 <center><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/event1.jpg" height="150" style="margin: 10px;"/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/event2.jpg" height="150" style="margin: 10px;"/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/event5.jpg" height="150" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/event1.jpg" height="180" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/event2.jpg" height="180" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/event5.jpg" height="180" style="margin: 10px;"/>
 </center><br>
 
 I recently participated in the 11th Symposium on Geomicrobiology organized by the Chinese Society for Microbiology and received the prestigious Best Poster Award. This event provided a unique platform to exchange ideas and collaborate with leading experts in the field, and I am excited to continue my research in geomicrobiology, leveraging the insights gained from this symposium. 
@@ -173,8 +192,8 @@ I contributed by analyzing and comparing metatranscriptome data to better unders
 <h5>CAU Special Program on Agricultural Diplomacy</h5>
 <h6>June, 2023</h6>
 <center><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair1.jpg" height="150" style="margin: 10px;"/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair2.png" height="150" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair1.jpg" height="200" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair2.png" height="200" style="margin: 10px;"/>
 </center><br>
 
 Delighted to be a part of the 5th CAU Special Program on Agricultural Diplomacy! As a representative member, I had the honor of delivering a talk in the opening ceremony.
@@ -248,8 +267,8 @@ I am very thankful to Dr. Jingjing Peng for her guidance and support, and to eve
 <h6>June, 2022</h6>
 
 <center><br>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2022graduate1.jpg" height="150" style="margin: 10px;"/>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2022graduate2.jpg" height="150" style="margin: 10px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2022graduate1.jpg" height="180" style="margin: 10px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2022graduate2.jpg" height="180" style="margin: 10px;"/>
 </center><br>
 
 I wrapped up my undergraduate journey with a thesis titled  
