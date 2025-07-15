@@ -87,8 +87,25 @@ I recently participated in the 11th Symposium on Geomicrobiology organized by th
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 
+<h5> Newly Published Paper about Metagenomic Insights into Bacterial Niche Differentiation </h5>
+<h6>June, 2023</h6>
+<center><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair1.jpg" height="150" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair2.png" height="150" style="margin: 10px;"/>
+</center><br>
+
+I am incredibly proud to share our newly published paper! As the third author, I could not be more excited as this marks my first publication. It has been an amazing journey working alongside my talented co-authors and under the guidance of our exceptional mentor. Grateful for this opportunity! [link](https://doi.org/10.1016/j.scitotenv.2023.164221)
+
+</div>
+</div>
+
+<!-- ====================================================== div ====================================================== -->
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+
 <h5>CAU Special Program on Agricultural Diplomacy</h5>
-<h6>2 June, 2023</h6>
+<h6>June, 2023</h6>
 <center><br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair1.jpg" height="150" style="margin: 10px;"/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair2.png" height="150" style="margin: 10px;"/>
@@ -143,12 +160,18 @@ One of the highlights of this program was the course project, "Connect the Straw
 <h5>First International Oral Presentation!</h5>
 <h6>August, 2022</h6>
 
-**"Soil Metatranscriptomics: Opportunities and Challenges"**at [1st Sino-European Microbial Omics Workshop for Young Scientist](https://zihuan.cau.edu.cn/art/2022/7/30/art_24818_874863.html)
-
 <center><br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/202207shot.png" height="150" style="margin: 10px;"/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/202207new.png" height="150" style="margin: 10px;"/>
 </center><br>
+
+**"Soil Metatranscriptomics: Opportunities and Challenges"** at [1st Sino-European Microbial Omics Workshop for Young Scientists](https://zihuan.cau.edu.cn/art/2022/7/30/art_24818_874863.html).
+
+<br>
+
+I am very thankful to Dr. Jingjing Peng for her guidance and support, and to everyone at the workshop for the great experience.
+
+
 
 </div>
 </div>
@@ -161,18 +184,22 @@ One of the highlights of this program was the course project, "Connect the Straw
 <h5>Graduated with My Bachelor's Degree!</h5>
 <h6>June, 2022</h6>
 
+<center><br>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/2022graduate2.jpg" height="150" style="margin: 10px;"/>
+</center><br>
+
 I wrapped up my undergraduate journey with a thesis titled  
 <b><i>"Metatranscriptomics resolves the detrimental impact of salt stress on the paddy soil methanogens into population-specific responses"</i></b>  
 under the kind guidance of Dr. Jingjing Peng.
+
 <br>
+
 Huge thanks to my supervisor and all lab members for their support throughout the way.  
 Happy to graduate! 🎓
-<br>
-I am excited to stay with the team for my Master's, continuing to explore the mysterious and fascinating world of methanogens!
 
-<center>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/2022graduate2.jpg" height="150" style="margin: 10px;"/>
-</center>
+<br>
+
+I am excited to stay with the team for my Master's, continuing to explore the mysterious and fascinating world of methanogens!
 
 <!-- ====================================================== div ====================================================== -->
 
