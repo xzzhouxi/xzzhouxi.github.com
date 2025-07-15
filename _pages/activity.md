@@ -34,6 +34,33 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
+<h5>Research Assistant at the School of Public Health, The University of Hong Kong</h5>
+<h6>Since November 2024</h6>
+
+I am working in the Laboratory of Data Discovery for Health (D²4H) on meta-omics research. My work focuses on preparing samples and organizing and analyzing sequencing data to better understand microbial communities in public health contexts.
+
+</div>
+</div>
+
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h5>Paricipating International Conference on Geo-Omics of Archaea (ICGOA) </h5>
+<h6>9-10 November, 2024</h6>
+<center><br>
+ <img src="{{ site.url }}{{ site.baseurl }}/images/event3.jpg" height="150"/> 
+ <img src="{{ site.url }}{{ site.baseurl }}/images/event4.jpg" height="150"/></center><br>
+
+I presented a poster on how temperature affects interactions between archaea and viruses in paddy soils. This work showed how these interactions may influence methane production. I was honored to receive the Best Poster Award at the conference!
+
+<a href="{{ site.url }}{{ site.baseurl }}/activity/poster2024" target="_blank">
+  Discover My Award-Winning Poster from the 2024ICGOA!
+</a>
+</div>
+</div>
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
 <h5>Paricipating 11th Symposium on Geomicrobiology</h5>
 <h6>6-9  June, 2023</h6>
 <center><br>
