@@ -76,6 +76,9 @@ I presented a poster on how temperature affects interactions between archaea and
 
 I am excited to share my first first-authored paper, published with my supervisor Dr. Jingjing Peng. We critically assess the challenges associated with various experimental and bioinformatic strategies that can be applied in soil microbial ecology through the lens of functional metatranscriptomics. We also demonstrate how recent methodological advancements in soil metatranscriptomics catalyze the development and expansion of emerging research fields.
 
+I am grateful to Dr. Peng for her guidance and to everyone who supported this work.
+
+[Read the paper here](https://link.springer.com/article/10.1007/s42832-023-0217-z)
 </a>
 </div>
 </div>
@@ -94,7 +97,9 @@ I am excited to share my first first-authored paper, published with my superviso
 
 I recently participated in the 11th Symposium on Geomicrobiology organized by the Chinese Society for Microbiology and received the prestigious Best Poster Award. This event provided a unique platform to exchange ideas and collaborate with leading experts in the field, and I am excited to continue my research in geomicrobiology, leveraging the insights gained from this symposium. 
 <a href="{{ site.url }}{{ site.baseurl }}/activity/poster2023" target="_blank">
-  Discover My Award-Winning Poster from the 11th Symposium on Geomicrobiology!
+
+Discover My Award-Winning Poster from the 11th Symposium on Geomicrobiology!
+
 </a>
 </div>
 </div>
