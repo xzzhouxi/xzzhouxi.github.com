@@ -33,7 +33,7 @@ iframe {
 
 ## Activity
 
-<!-- ======================================================  ====================================================== -->
+<!-- ====================================================== div ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -45,7 +45,7 @@ I am working in the Laboratory of Data Discovery for Health (D²4H) on meta-omic
 </div>
 </div>
 
-<!-- ======================================================  ====================================================== -->
+<!-- ====================================================== div ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -63,7 +63,7 @@ I presented a poster on how temperature affects interactions between archaea and
 </div>
 </div>
 
-<!-- ======================================================  ====================================================== -->
+<!-- ====================================================== div ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -80,7 +80,7 @@ I recently participated in the 11th Symposium on Geomicrobiology organized by th
 </div>
 </div>
 
-<!-- ======================================================  ====================================================== -->
+<!-- ====================================================== div ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -96,7 +96,7 @@ Delighted to be a part of the 5th CAU Special Program on Agricultural Diplomacy!
 </div>
 </div>
 
-<!-- ======================================================  ====================================================== -->
+<!-- ====================================================== div ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -107,14 +107,15 @@ Delighted to be a part of the 5th CAU Special Program on Agricultural Diplomacy!
 Soil sampling in Qingyuan City, Guangdong Province.
 
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-<img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling1.jpg" height="200" style="border-radius: 10px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2);"/>
-<img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling2.jpg" height="200" style="border-radius: 10px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2);"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling1.jpg" height="200"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling2.jpg" height="200"/>
+</div>
   
 </div>
 </div>
 </div>
 
-<!-- ======================================================  ====================================================== -->
+<!-- ====================================================== div ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -128,7 +129,7 @@ One of the highlights of this program was the course project, "Connect the Straw
 </div>
 </div>
 
-<!-- ======================================================  ====================================================== -->
+<!-- ====================================================== div ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -144,7 +145,7 @@ One of the highlights of this program was the course project, "Connect the Straw
 </div>
 </div>
 
-<!-- ======================================================  ====================================================== -->
+<!-- ====================================================== div ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -159,6 +160,6 @@ One of the highlights of this program was the course project, "Connect the Straw
   <img src="{{ site.url }}{{ site.baseurl }}/images/2022graduate2.jpg" height="150"/>
 </center>
 
-<!-- ======================================================  ====================================================== -->
+<!-- ====================================================== div ====================================================== -->
 
 
