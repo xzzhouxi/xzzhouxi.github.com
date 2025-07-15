@@ -104,7 +104,7 @@ Delighted to be a part of the 5th CAU Special Program on Agricultural Diplomacy!
 <h5>Field Sampling</h5>
 <h6>January, 2023</h6>
 
-</center><br>
+<center><br>
   <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling1.jpg" height="200" style="margin: 10px;"/>
   <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling2.jpg" height="200" style="margin: 10px;"/>
 </center><br>
@@ -137,7 +137,8 @@ One of the highlights of this program was the course project, "Connect the Straw
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 
-- ***August, 2022 First global oral presentation!***
+<h5>First International Oral Presentation!</h5>
+<h6>August, 2022</h6>
 
   **"Soil Metatranscriptomics: Opportunities and Challenges"**at [1st Sino-European Microbial Omics Workshop for Young Scientist](https://zihuan.cau.edu.cn/art/2022/7/30/art_24818_874863.html)
 
