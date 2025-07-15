@@ -91,7 +91,7 @@ I recently participated in the 11th Symposium on Geomicrobiology organized by th
 <img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair1.jpg" height="150"/> 
 <img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair2.png" height="150"/></center><br>
 
-Delighted to be a part of the 5th CAU Special Program on Agricultural Diplomacy! As a representative member, I had the honor of delivering a speech in the opening ceremony.
+Delighted to be a part of the 5th CAU Special Program on Agricultural Diplomacy! As a representative member, I had the honor of delivering a talk in the opening ceremony.
 
 </div>
 </div>
@@ -104,14 +104,13 @@ Delighted to be a part of the 5th CAU Special Program on Agricultural Diplomacy!
 <h5>Field Sampling</h5>
 <h6>January, 2023</h6>
 
-Soil sampling in Qingyuan City, Guangdong Province.
+</center><br>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling1.jpg" height="200" style="margin: 10px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling2.jpg" height="200" style="margin: 10px;"/>
+</center><br>
 
-<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling1.jpg" height="200"/>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling2.jpg" height="200"/>
-</div>
-  
-</div>
+Soil sampling in my hometown, Qingyuan City, Guangdong Province.
+
 </div>
 </div>
 
@@ -122,10 +121,14 @@ Soil sampling in Qingyuan City, Guangdong Province.
 
 <h5>Cornell - CAU Joint Course "Agriculture, Food, and the Environment"</h5>
 <h6>Fall semester, 2022-2023</h6>
+
 <center><br>
  <img src="{{ site.url }}{{ site.baseurl }}/images/straw1.jpg" height="150"/> 
- <img src="{{ site.url }}{{ site.baseurl }}/images/straw2.jpg" height="150"/></center><br>
+ <img src="{{ site.url }}{{ site.baseurl }}/images/straw2.jpg" height="150"/>
+</center><br>
+
 One of the highlights of this program was the course project, "Connect the Straw: Providing a Better Solution to Straw Utilization in Sichuan Province." Our mission was to find innovative and sustainable solutions to the issue of straw utilization in Sichuan Province, a region known for its vibrant agricultural activities.
+
 </div>
 </div>
 
