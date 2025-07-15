@@ -40,10 +40,11 @@ iframe {
 <h6>January 2025</h6>
 
 <center><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/2025viruspaper.jpeg.jpg" height="300" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2025viruspaper.jpg" height="300" style="margin: 10px;"/>
 </center><br>
 
 Excited to share our recent publication exploring the virus–host relationships in methane-producing archaea from rice paddies! By combining metagenomic data and CRISPR-based analyses, we uncovered a diverse and coevolving viral community linked to key methanogens. I contributed to the bioinformatic analysis and development of the viral detection pipeline.
+
 
 [Read the paper here](https://academic.oup.com/ismecommun/article/5/1/ycaf088/8142314)
 
@@ -173,9 +174,9 @@ Delighted to be a part of the 5th CAU Special Program on Agricultural Diplomacy!
 <h6>January, 2023</h6>
 
 <center><br>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling1.jpg" height="200" style="margin: 5px;"/>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling2.jpg" height="200" style="margin: 5px;"/>
-    <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling3.jpg" height="200" style="margin: 5px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling1.jpg" height="170" style="margin: 5px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling2.jpg" height="170" style="margin: 5px;"/>
+  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling3.jpg" height="170" style="margin: 5px;"/>
 </center><br>
 
 Soil sampling in my hometown, Qingyuan City, Guangdong Province.
