@@ -1,10 +1,73 @@
+
+
+
 ---
 title: "Activity"
 layout: gridlay
 sitemap: false
 permalink: /activity/
 ---
+<style>
+.timeline {
+  position: relative;
+  margin: 2em 0;
+  padding: 0;
+  list-style: none;
+  border-left: 3px solid #ddd;
+}
 
+.timeline li {
+  position: relative;
+  padding: 1em 0 1em 2em;
+}
+
+.timeline li::before {
+  content: '';
+  position: absolute;
+  top: 1.2em;
+  left: -9px;
+  width: 16px;
+  height: 16px;
+  background-color: #4CAF50;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.timeline li h4 {
+  margin: 0;
+  font-size: 1.1em;
+  color: #333;
+}
+
+.timeline li p {
+  margin: 0.3em 0 0;
+  color: #555;
+  font-size: 0.95em;
+}
+</style>
+
+## Timeline
+
+<ul class="timeline">
+  <li>
+    <h4>July 2025</h4>
+    <p>Preparing to start PhD at Queensland University of Technology.</p>
+  </li>
+  <li>
+    <h4>Nov 2024 – Present</h4>
+    <p>Research Assistant at HKU's D²4H Lab, working on meta-omics and public health.</p>
+  </li>
+  <li>
+    <h4>Nov 2024</h4>
+    <p>Won Best Poster Award at ICGOA 2024 for research on archaea–virus interactions.</p>
+  </li>
+  <li>
+    <h4>June 2023</h4>
+    <p>Received Best Poster Award at the 11th Symposium on Geomicrobiology.</p>
+  </li>
+</ul>
+
+——————————————————————————————————
 <style>
 img{
   border-radius: 10px;
@@ -29,6 +92,7 @@ iframe {
   vertical-align: middle;
 }
 </style>
+
 
 ## Activity
 
