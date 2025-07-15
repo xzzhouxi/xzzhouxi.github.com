@@ -6,163 +6,6 @@ permalink: /activity/
 ---
 
 <style>
-.timeline {
-  position: relative;
-  margin: 2em 0;
-  padding: 0;
-  list-style: none;
-  border-left: 3px solid #ddd;
-}
-
-.timeline li {
-  position: relative;
-  padding: 1em 0 1em 2em;
-}
-
-.timeline li::before {
-  content: '';
-  position: absolute;
-  top: 1.2em;
-  left: -9px;
-  width: 16px;
-  height: 16px;
-  background-color: #4CAF50;
-  border-radius: 50%;
-  border: 2px solid white;
-}
-
-.timeline li h4 {
-  margin: 0;
-  font-size: 1.1em;
-  color: #333;
-}
-
-.timeline li p {
-  margin: 0.3em 0 0;
-  color: #555;
-  font-size: 0.95em;
-}
-</style>
-
-## Timeline
-
-<ul class="timeline">
-  <li>
-    <h4>July 2025</h4>
-    <p>Preparing to start PhD at Queensland University of Technology.</p>
-  </li>
-  <li>
-    <h4>Nov 2024 – Present</h4>
-    <p>Research Assistant at HKU's D²4H Lab, working on meta-omics and public health.</p>
-  </li>
-  <li>
-    <h4>Nov 2024</h4>
-    <p>Won Best Poster Award at ICGOA 2024 for research on archaea–virus interactions.</p>
-  </li>
-  <li>
-    <h4>June 2023</h4>
-    <p>Received Best Poster Award at the 11th Symposium on Geomicrobiology.</p>
-  </li>
-</ul>
-
-——————————————————————————————————
-
-<style>
-.timeline-container {
-  max-height: 300px; /* or any height you want */
-  overflow-y: auto;
-  border-left: 3px solid #ddd;
-  padding-left: 20px;
-  cursor: grab; /* shows grab cursor */
-}
-
-.timeline-container:active {
-  cursor: grabbing; /* shows grabbing cursor */
-}
-
-.timeline {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.timeline li {
-  position: relative;
-  padding: 1em 0 1em 2em;
-  border-bottom: 1px solid #eee;
-}
-
-.timeline li::before {
-  content: '';
-  position: absolute;
-  top: 1.2em;
-  left: -9px;
-  width: 16px;
-  height: 16px;
-  background-color: #4CAF50;
-  border-radius: 50%;
-  border: 2px solid white;
-}
-
-.timeline li h4 {
-  margin: 0;
-  font-size: 1.1em;
-  color: #333;
-}
-
-.timeline li p {
-  margin: 0.3em 0 0;
-  color: #555;
-  font-size: 0.95em;
-}
-</style>
-
-<div class="timeline-container" id="timelineContainer">
-  <ul class="timeline">
-    <li><h4>July 2025</h4><p>Preparing to start PhD at Queensland University of Technology.</p></li>
-    <li><h4>Nov 2024 – Present</h4><p>Research Assistant at HKU's D²4H Lab, working on meta-omics and public health.</p></li>
-    <li><h4>Nov 2024</h4><p>Won Best Poster Award at ICGOA 2024 for research on archaea–virus interactions.</p></li>
-    <li><h4>June 2023</h4><p>Received Best Poster Award at the 11th Symposium on Geomicrobiology.</p></li>
-    <!-- add more items here -->
-  </ul>
-</div>
-
-<script>
-  const slider = document.getElementById('timelineContainer');
-  let isDown = false;
-  let startY;
-  let scrollTop;
-
-  slider.addEventListener('mousedown', (e) => {
-    isDown = true;
-    slider.classList.add('active');
-    startY = e.pageY - slider.offsetTop;
-    scrollTop = slider.scrollTop;
-  });
-
-  slider.addEventListener('mouseleave', () => {
-    isDown = false;
-    slider.classList.remove('active');
-  });
-
-  slider.addEventListener('mouseup', () => {
-    isDown = false;
-    slider.classList.remove('active');
-  });
-
-  slider.addEventListener('mousemove', (e) => {
-    if(!isDown) return;
-    e.preventDefault();
-    const y = e.pageY - slider.offsetTop;
-    const walk = (y - startY) * 2; // scroll-fast multiplier
-    slider.scrollTop = scrollTop - walk;
-  });
-</script>
-
-
-————————————————————————————————————————————————————
-
-<style>
 img{
   border-radius: 10px;
 }
@@ -190,6 +33,8 @@ iframe {
 
 ## Activity
 
+<!-- ======================================================  ====================================================== -->
+
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h5>Working as Research Assistant at the University of Hong Kong</h5>
@@ -200,14 +45,15 @@ I am working in the Laboratory of Data Discovery for Health (D²4H) on meta-omic
 </div>
 </div>
 
+<!-- ======================================================  ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h5>Paricipating International Conference on Geo-Omics of Archaea (ICGOA) </h5>
 <h6>9-10 November, 2024</h6>
 <center><br>
- <img src="{{ site.url }}{{ site.baseurl }}/images/event3.jpg" height="150"/> 
- <img src="{{ site.url }}{{ site.baseurl }}/images/event4.jpg" height="150"/></center><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/event3.jpg" height="150"/> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/event4.jpg" height="150"/></center><br>
 
 I presented a poster on how temperature affects interactions between archaea and viruses in paddy soils. This work showed how these interactions may influence methane production. I was honored to receive the Best Poster Award at the conference!
 
@@ -217,13 +63,15 @@ I presented a poster on how temperature affects interactions between archaea and
 </div>
 </div>
 
+<!-- ======================================================  ====================================================== -->
+
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h5>Paricipating 11th Symposium on Geomicrobiology</h5>
 <h6>6-9  June, 2023</h6>
 <center><br>
- <img src="{{ site.url }}{{ site.baseurl }}/images/event1.jpg" height="150"/> 
- <img src="{{ site.url }}{{ site.baseurl }}/images/event2.jpg" height="150"/></center><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/event1.jpg" height="150"/> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/event2.jpg" height="150"/></center><br>
 
 I recently participated in the 11th Symposium on Geomicrobiology organized by the Chinese Society for Microbiology and received the prestigious Best Poster Award. This event provided a unique platform to exchange ideas and collaborate with leading experts in the field, and I am excited to continue my research in geomicrobiology, leveraging the insights gained from this symposium. 
 <a href="{{ site.url }}{{ site.baseurl }}/activity/poster2023" target="_blank">
@@ -232,30 +80,41 @@ I recently participated in the 11th Symposium on Geomicrobiology organized by th
 </div>
 </div>
 
+<!-- ======================================================  ====================================================== -->
+
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 
 <h5>CAU Special Program on Agricultural Diplomacy</h5>
 <h6>2 June, 2023</h6>
 <center><br>
- <img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair1.jpg" height="150"/> 
- <img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair2.png" height="150"/></center><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair1.jpg" height="150"/> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/foreignaffair2.png" height="150"/></center><br>
+
 Delighted to be a part of the 5th CAU Special Program on Agricultural Diplomacy! As a representative member, I had the honor of delivering a speech in the opening ceremony.
+
 </div>
 </div>
+
+<!-- ======================================================  ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 
-- ***January, 2023 Sampling***
+<h5>Field Sampling</h5>
+<h6>January, 2023</h6>
 
-  Soil sampling in Qingyuan City, Guangdong Province.
+Soil sampling in Qingyuan City, Guangdong Province.
 
-  <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling1.jpg" height="200"/> 
-  <img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling2.jpg" height="200"/> 
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+<img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling1.jpg" height="200" style="border-radius: 10px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2);"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/202301soilsampling2.jpg" height="200" style="border-radius: 10px; box-shadow: 2px 2px 6px rgba(0,0,0,0.2);"/>
+  
 </div>
 </div>
+</div>
+
+<!-- ======================================================  ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -268,6 +127,8 @@ Delighted to be a part of the 5th CAU Special Program on Agricultural Diplomacy!
 One of the highlights of this program was the course project, "Connect the Straw: Providing a Better Solution to Straw Utilization in Sichuan Province." Our mission was to find innovative and sustainable solutions to the issue of straw utilization in Sichuan Province, a region known for its vibrant agricultural activities.
 </div>
 </div>
+
+<!-- ======================================================  ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -283,6 +144,7 @@ One of the highlights of this program was the course project, "Connect the Straw
 </div>
 </div>
 
+<!-- ======================================================  ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -296,5 +158,7 @@ One of the highlights of this program was the course project, "Connect the Straw
 <center>
   <img src="{{ site.url }}{{ site.baseurl }}/images/2022graduate2.jpg" height="150"/>
 </center>
+
+<!-- ======================================================  ====================================================== -->
 
 
