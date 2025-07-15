@@ -66,6 +66,102 @@ permalink: /activity/
 </ul>
 
 ——————————————————————————————————
+
+<style>
+.timeline-container {
+  max-height: 300px; /* or any height you want */
+  overflow-y: auto;
+  border-left: 3px solid #ddd;
+  padding-left: 20px;
+  cursor: grab; /* shows grab cursor */
+}
+
+.timeline-container:active {
+  cursor: grabbing; /* shows grabbing cursor */
+}
+
+.timeline {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.timeline li {
+  position: relative;
+  padding: 1em 0 1em 2em;
+  border-bottom: 1px solid #eee;
+}
+
+.timeline li::before {
+  content: '';
+  position: absolute;
+  top: 1.2em;
+  left: -9px;
+  width: 16px;
+  height: 16px;
+  background-color: #4CAF50;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.timeline li h4 {
+  margin: 0;
+  font-size: 1.1em;
+  color: #333;
+}
+
+.timeline li p {
+  margin: 0.3em 0 0;
+  color: #555;
+  font-size: 0.95em;
+}
+</style>
+
+<div class="timeline-container" id="timelineContainer">
+  <ul class="timeline">
+    <li><h4>July 2025</h4><p>Preparing to start PhD at Queensland University of Technology.</p></li>
+    <li><h4>Nov 2024 – Present</h4><p>Research Assistant at HKU's D²4H Lab, working on meta-omics and public health.</p></li>
+    <li><h4>Nov 2024</h4><p>Won Best Poster Award at ICGOA 2024 for research on archaea–virus interactions.</p></li>
+    <li><h4>June 2023</h4><p>Received Best Poster Award at the 11th Symposium on Geomicrobiology.</p></li>
+    <!-- add more items here -->
+  </ul>
+</div>
+
+<script>
+  const slider = document.getElementById('timelineContainer');
+  let isDown = false;
+  let startY;
+  let scrollTop;
+
+  slider.addEventListener('mousedown', (e) => {
+    isDown = true;
+    slider.classList.add('active');
+    startY = e.pageY - slider.offsetTop;
+    scrollTop = slider.scrollTop;
+  });
+
+  slider.addEventListener('mouseleave', () => {
+    isDown = false;
+    slider.classList.remove('active');
+  });
+
+  slider.addEventListener('mouseup', () => {
+    isDown = false;
+    slider.classList.remove('active');
+  });
+
+  slider.addEventListener('mousemove', (e) => {
+    if(!isDown) return;
+    e.preventDefault();
+    const y = e.pageY - slider.offsetTop;
+    const walk = (y - startY) * 2; // scroll-fast multiplier
+    slider.scrollTop = scrollTop - walk;
+  });
+</script>
+
+
+————————————————————————————————————————————————————
+
 <style>
 img{
   border-radius: 10px;
