@@ -34,7 +34,7 @@ iframe {
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h5>Research Assistant at the School of Public Health, The University of Hong Kong</h5>
+<h5>Working as Research Assistant at the School of Public Health, The University of Hong Kong</h5>
 <h6>Since November 2024</h6>
 
 I am working in the Laboratory of Data Discovery for Health (D²4H) on meta-omics research. My work focuses on preparing samples and organizing and analyzing sequencing data to better understand microbial communities in public health contexts.
