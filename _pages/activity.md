@@ -143,11 +143,12 @@ One of the highlights of this program was the course project, "Connect the Straw
 <h5>First International Oral Presentation!</h5>
 <h6>August, 2022</h6>
 
-  **"Soil Metatranscriptomics: Opportunities and Challenges"**at [1st Sino-European Microbial Omics Workshop for Young Scientist](https://zihuan.cau.edu.cn/art/2022/7/30/art_24818_874863.html)
+**"Soil Metatranscriptomics: Opportunities and Challenges"**at [1st Sino-European Microbial Omics Workshop for Young Scientist](https://zihuan.cau.edu.cn/art/2022/7/30/art_24818_874863.html)
 
-  <center>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/202207shot.png" height="150" style="margin: 10px;"/>
-  <img src="{{ site.url }}{{ site.baseurl }}/images/202207new.png" height="150" style="margin: 10px;"/>
+<center><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/202207shot.png" height="150" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/202207new.png" height="150" style="margin: 10px;"/>
+</center><br>
 
 </div>
 </div>
@@ -163,10 +164,10 @@ One of the highlights of this program was the course project, "Connect the Straw
 I wrapped up my undergraduate journey with a thesis titled  
 <b><i>"Metatranscriptomics resolves the detrimental impact of salt stress on the paddy soil methanogens into population-specific responses"</i></b>  
 under the kind guidance of Dr. Jingjing Peng.
-
-Huge thanks to my advisor and all lab members for their support throughout the way.  
-Graduation unlocked! 🎓
-
+<br>
+Huge thanks to my supervisor and all lab members for their support throughout the way.  
+Happy to graduate! 🎓
+<br>
 I am excited to stay with the team for my Master's, continuing to explore the mysterious and fascinating world of methanogens!
 
 <center>
