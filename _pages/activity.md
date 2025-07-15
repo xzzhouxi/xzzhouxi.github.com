@@ -33,10 +33,15 @@ iframe {
 
 ## Activity
 
+
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h5>Newly Published Paper: Virus–Host Interactions in Paddy Soil Methanogens </h5>
 <h6>January 2025</h6>
+
+<center><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2025viruspaper.jpeg.jpg" height="300" style="margin: 10px;"/>
+</center><br>
 
 Excited to share our recent publication exploring the virus–host relationships in methane-producing archaea from rice paddies! By combining metagenomic data and CRISPR-based analyses, we uncovered a diverse and coevolving viral community linked to key methanogens. I contributed to the bioinformatic analysis and development of the viral detection pipeline.
 
@@ -63,9 +68,12 @@ I am working in the Laboratory of Data Discovery for Health (D²4H) on meta-omic
 <div class="col-md-12 col-sm-12">
 <h5>Paricipating International Conference on Geo-Omics of Archaea (ICGOA) </h5>
 <h6>9-10 November, 2024</h6>
+
 <center><br>
-<img src="{{ site.url }}{{ site.baseurl }}/images/2025viruspaper.jpeg.jpg" height="300" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/event3.jpg" height="150" style="margin: 10px;"/>
+<img src="{{ site.url }}{{ site.baseurl }}/images/event4.jpg" height="150" style="margin: 10px;"/>
 </center><br>
+
 
 I presented a poster on how temperature affects interactions between archaea and viruses in paddy soils. This work showed how these interactions may influence methane production. I was honored to receive the Best Poster Award at the conference!
 
@@ -81,6 +89,7 @@ I presented a poster on how temperature affects interactions between archaea and
 <div class="col-md-12 col-sm-12">
 <h5>Newly Published Paper: Soil Microbial Ecology Through Metatranscriptomics</h5>
 <h6>December, 2023</h6>
+
 <center><br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/2023mtxpaper.jpg" height="400" style="margin: 10px;"/>
 </center><br>
@@ -100,6 +109,7 @@ I am grateful to Dr. Peng for her guidance and to everyone who supported this wo
 <div class="col-md-12 col-sm-12">
 <h5>Paricipating 11th Symposium on Geomicrobiology</h5>
 <h6>6-9  June, 2023</h6>
+  
 <center><br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/event1.jpg" height="150" style="margin: 10px;"/>
 <img src="{{ site.url }}{{ site.baseurl }}/images/event2.jpg" height="150" style="margin: 10px;"/>
