@@ -227,8 +227,8 @@ I’m a strong believer in lifelong learning and have a wide range of interests,
 
 - **Board games**: I enjoy [guandan](https://en.wikipedia.org/wiki/Guandan) and [mahjong](https://en.wikipedia.org/wiki/Mahjong).
 - **Music**: My playlists span pop, indie, R&B, disco funk, with a dash of hip-hop. I listen to music for over 100,000 minutes a year, which averages out to about 4.6 hours per day. I’m usually wearing AirPods, though, to be honest, they’re probably not playing music most of the time.
+- **K-Pop**: Outside the lab, I am an [NCT WISH](https://en.wikipedia.org/wiki/NCT_Wish) fan and enjoy diving into the world of K-pop.
 - **Dancing**: Waacking is my favourite. You might catch me trying out some unskilled voguing (old way & vogue femme).
-- **Sports**: I play badminton, and jog to clear my mind.
 - I lean politically left, with strong feminist and open-minded values. While I enjoy meaningful discussions with people of all ideologies, I prefer to avoid needless controversies. Silence is my way of dodging conflict, so if I’m quiet, don’t worry—I’m just keeping the peace!
 - I care deeply about **feminism**. I identify as a [**Marxist feminist**](https://en.wikipedia.org/wiki/Marxist_feminism). Marxist feminism focuses on how capitalism contributes to women's oppression and advocates for dismantling both capitalist structures and patriarchy to achieve true gender equality.
 
