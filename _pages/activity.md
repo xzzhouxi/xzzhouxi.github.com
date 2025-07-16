@@ -173,6 +173,7 @@ I am grateful to Dr. Peng for her guidance and to everyone who supported this wo
 I recently participated in the 11th Symposium on Geomicrobiology organized by the Chinese Society for Microbiology and received the prestigious Best Poster Award. This event provided a unique platform to exchange ideas and collaborate with leading experts in the field, and I am excited to continue my research in geomicrobiology, leveraging the insights gained from this symposium. 
 <a href="{{ site.url }}{{ site.baseurl }}/activity/poster2023" target="_blank">
 
+<a href="{{ site.url }}{{ site.baseurl }}/activity/poster2023" target="_blank">
 Discover My Award-Winning Poster from the 11th Symposium on Geomicrobiology!
 
 </div>
