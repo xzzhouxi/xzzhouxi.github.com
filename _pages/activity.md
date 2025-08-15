@@ -44,7 +44,7 @@ iframe {
 
 I am excited to share our recent publication, which originated from my undergraduate thesis, where I spent nearly four years analyzing data and preparing the manuscript. This study investigates how saltwater intrusion affects methanogenic communities in rice paddies.
 
-I am deeply grateful to my mentor, Peng laoshi, for guidance and support throughout this work, and I hope this study provides new and interesting insights to the research community.
+I am deeply grateful to my supervisor, Peng laoshi, for guidance and support throughout this work, and I sincerely thank all my co-authors and labmates for their contributions.
 
 [Read the paper here](https://doi.org/10.1128/msystems.00017-25)
 
@@ -318,6 +318,7 @@ Happy to graduate! 🎓
 I am excited to stay with the team for my Master's, continuing to explore the mysterious and fascinating world of methanogens!
 
 <!-- ====================================================== div ====================================================== -->
+
 
 
 
