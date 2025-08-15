@@ -33,6 +33,25 @@ iframe {
 
 ## Activity
 
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h5>Newly Published Paper: How rising salinity shapes methanogenic communities and methane production </h5>
+<h6>January 2025</h6>
+
+<center><br>
+<img src="{{ site.url }}{{ site.baseurl }}/images/2025saltconcept.jpg" height="400"/> 
+</center><br>
+
+I am excited to share our recent publication, which originated from my undergraduate thesis, where I spent nearly four years analyzing data and preparing the manuscript. This study investigates how saltwater intrusion affects methanogenic communities in rice paddies.
+
+I am deeply grateful to my mentor, Peng laoshi, for guidance and support throughout this work, and I hope this study provides new and interesting insights to the research community.
+
+[Read the paper here](https://doi.org/10.1128/msystems.00017-25)
+
+</div>
+</div>
+
+<!-- ====================================================== div ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -299,5 +318,6 @@ Happy to graduate! 🎓
 I am excited to stay with the team for my Master's, continuing to explore the mysterious and fascinating world of methanogens!
 
 <!-- ====================================================== div ====================================================== -->
+
 
 
