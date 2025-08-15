@@ -48,6 +48,9 @@ iframe {
 </div>
 </div>
 
+
+#### - *Previous research/project*
+
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 
@@ -59,8 +62,7 @@ iframe {
 - Advisor: [ Jingjing Peng](jingjing.peng@cau.edu.cn)
 
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/research1.png" height="180"/>    
-<img src="{{ site.url }}{{ site.baseurl }}/images/research2.png" height="180"/> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/2025saltconcept.jpg" height="200"/> 
 </center>
 <br>
 
@@ -68,8 +70,6 @@ In this research project, I delved into the paddy soil microbiome, specifically 
 
 </div>
 </div>
-
-#### - *Previous research/project*
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -120,3 +120,4 @@ My project aimed to understand methane (CH4) emissions in paddy soil layers by s
 This research integrates soil properties, uncovering the microbial aspects of carbon and nitrogen cycles. It enhances our knowledge of sustainable rice agriculture and informs decisions on carbon and nitrogen management.
 </div>
 </div>
+
