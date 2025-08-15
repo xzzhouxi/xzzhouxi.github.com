@@ -33,10 +33,10 @@ iframe {
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 
-    <p>Click below to view full list on Google Scholar:</p>
-    <a href="https://scholar.google.com/citations?user=zYjFzd4AAAAJ&hl&hl=en" target="_blank" style="display:block; text-align:center; padding:8px; background:#007bff; color:white; text-decoration:none; border-radius:4px;">
+<p>Click below to view full list on Google Scholar:</p>
+<a href="https://scholar.google.com/citations?user=zYjFzd4AAAAJ&hl&hl=en" target="_blank" style="display:block; text-align:center; padding:8px; background:#007bff; color:white; text-decoration:none; border-radius:4px;">
         View My Google Scholar Publications
-    </a>
+</a>
 
 </div>
 </div>
