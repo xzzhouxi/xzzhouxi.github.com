@@ -62,7 +62,7 @@ iframe {
 - Advisor: [ Jingjing Peng](jingjing.peng@cau.edu.cn)
 
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/2025saltconcept.jpg" height="200"/> 
+<img src="{{ site.url }}{{ site.baseurl }}/images/2025saltconcept.jpg" height="400"/> 
 </center>
 <br>
 
@@ -120,4 +120,5 @@ My project aimed to understand methane (CH4) emissions in paddy soil layers by s
 This research integrates soil properties, uncovering the microbial aspects of carbon and nitrogen cycles. It enhances our knowledge of sustainable rice agriculture and informs decisions on carbon and nitrogen management.
 </div>
 </div>
+
 
