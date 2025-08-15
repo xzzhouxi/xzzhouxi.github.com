@@ -27,8 +27,6 @@ China Agriculture University (CAU), P. R. China
 19 Science Park West Avenue, Hong Kong Science Park<br>
 Pak Shek Kok, New Territories, Hong Kong SAR
 
-<img width="468" height="37" alt="image" src="https://github.com/user-attachments/assets/aec022ac-ae6b-426f-9288-1a575a2187c1" />
-
 <div>
 {% for member in site.data.pi %}
   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-3x"></i></a> {% endif %}
@@ -41,6 +39,7 @@ Pak Shek Kok, New Territories, Hong Kong SAR
 </div>
 </div>
 </div>
+
 
 
 
