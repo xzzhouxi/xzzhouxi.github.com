@@ -22,12 +22,13 @@ Master of Science (Agr.) in Plant Nutrition<br>
 China Agriculture University (CAU), P. R. China
 
 
-
 #### Coordinates
 
-College of Resources and Environmental Sciences<br>
-China Agricultural University (CAU)<br>
-2 Yuanmingyuan Xilu, Beijing 1000193, P. R. China
+19 Science Park West Avenue, Hong Kong Science Park<br>
+Pak Shek Kok, New Territories, Hong Kong SAR
+
+<img width="468" height="37" alt="image" src="https://github.com/user-attachments/assets/aec022ac-ae6b-426f-9288-1a575a2187c1" />
+
 
 <div>
 {% for member in site.data.pi %}
@@ -42,26 +43,5 @@ China Agricultural University (CAU)<br>
 </div>
 </div>
 
-<div class="jumbotron">
-<div class="col-md-12 col-sm-12">
-
-#### EDUCATION
-
-------
-
-- **Master student in Plant Nutrition (2022-2024)**
-
-  College of Resources and Environmental Sciences (CRES), CAU, Beijing 
-
-- **Undergraduate student majoring in Plant Nutrition (2018-2022)**
-
-  College of Resources and Environmental Sciences (CRES), CAU, Beijing
-
-- **Undergraduate student minoring in Data Science and Big Data Technology (2020-2022)**
-
-  College of Information and Electrical Engineering (CIEE), CAU, Beijing
-
-</div>
-</div>
 
 
