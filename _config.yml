@@ -28,6 +28,7 @@ contact: >
 # Pages shown in navbar
 nav_pages:
   - name: research
+  - name: publications
   - name: activity
   - name: about
 
@@ -90,3 +91,4 @@ exclude:
   - switch_theme.sh
   - tags
   - Rakefile
+
