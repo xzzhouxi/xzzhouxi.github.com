@@ -36,7 +36,7 @@ iframe {
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
 <h5>Newly Published Paper: How rising salinity shapes methanogenic communities and methane production </h5>
-<h6>January 2025</h6>
+<h6>July 2025</h6>
 
 <center><br>
 <img src="{{ site.url }}{{ site.baseurl }}/images/2025saltconcept.jpg" height="400"/> 
@@ -318,6 +318,7 @@ Happy to graduate! 🎓
 I am excited to stay with the team for my Master's, continuing to explore the mysterious and fascinating world of methanogens!
 
 <!-- ====================================================== div ====================================================== -->
+
 
 
 
