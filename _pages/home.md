@@ -13,11 +13,9 @@ Nature acts as a giant methane reactor, with billions of microbes influencing gl
 </div>
 </div>
 
-I am a researcher in microbial ecology with a focus on archaea, viruses, and methane cycling. I completed my Bachelor's and Master's degrees at China Agricultural University, where I studied methanogenic food webs in rice paddies under environmental stress.
+I am a researcher in microbial ecology with a focus on archaea, viruses, and methane cycling. My research investigates how microbes interact with their environment and how these interactions affect greenhouse gases and carbon cycles.
 
-My research investigates how microbes interact with their environment and how these interactions affect greenhouse gases and carbon cycles. I use bioinformatics techniques to study these processes.
-
-I am currently working as a research assistant at the University of Hong Kong and will soon begin my PhD journey at Queensland University of Technology. I am excited to continue exploring the hidden roles of microbes in shaping our environment!
+I am currently a PhD student at the Centre for Microbiome Research (CMR) at Queensland University of Technology (QUT), studying anaerobic methanotrophic archaea (ANME) and their microbial interactions.
 
 #### Research Interests
 
@@ -25,3 +23,4 @@ I am currently working as a research assistant at the University of Hong Kong an
 - Archaeal biology
 - Virus-host interaction
 - Bioinformatics and AI
+
