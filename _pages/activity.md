@@ -32,6 +32,34 @@ iframe {
 
 
 ## Activity
+<!-- ====================================================== div ====================================================== -->
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h5>Moving Forward: My PhD Begins</h5>
+<h6>October 2025</h6>
+
+Starting from November 2025, I will be joining the Centre for Microbiome Research (CMR) at Queensland University of Technology (QUT). My upcoming research will focus on anaerobic methanotrophic archaea (ANME) and their microbial interactions.
+
+More updates coming soon. Stay tuned!
+</div>
+</div>
+
+<!-- ====================================================== div ====================================================== -->
+
+<div class="jumbotron">
+<div class="col-md-12 col-sm-12">
+<h5>Wrapping Up My RA Position at HKU</h5>
+<h6>October 2025</h6>
+
+I have officially finished my time as a Research Assistant at HKU. This year gave me some unexpected (but very fun) experience in mosquito identification and infectious disease research, and I also had the chance to collaborate on bioinformatics projects with many brilliant minds.
+
+I am truly thankful for this experience. Hope our paths cross again!
+
+</div>
+</div>
+
+<!-- ====================================================== div ====================================================== -->
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
@@ -74,8 +102,8 @@ Excited to share our recent publication exploring the virus–host relationships
 
 <div class="jumbotron">
 <div class="col-md-12 col-sm-12">
-<h5>Working as Research Assistant at the University of Hong Kong</h5>
-<h6>Since November 2024</h6>
+<h5> Starting as as Research Assistant at the University of Hong Kong</h5>
+<h6>November 2024</h6>
 
 I am working in the Laboratory of Data Discovery for Health (D²4H) on meta-omics research. My work focuses on preparing samples and organizing and analyzing sequencing data to better understand microbial communities in public health contexts.
 
@@ -318,6 +346,7 @@ Happy to graduate! 🎓
 I am excited to stay with the team for my Master's, continuing to explore the mysterious and fascinating world of methanogens!
 
 <!-- ====================================================== div ====================================================== -->
+
 
 
 
