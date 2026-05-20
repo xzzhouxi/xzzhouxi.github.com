@@ -1,6 +1,6 @@
 # Site settings
 title: Xi ZHOU
-email: zx2098@outlook.com
+email: x55.zhou@hdr.qut.edu.au
 description: Welcome to Xi's Academic Webpage!
 baseurl: ""
 url: ""
@@ -13,16 +13,16 @@ url: ""
 # Footer info
 affiliation: >
     Xi ZHOU<br/>
-    MS (Agr.) in Plant Nutrition <br/>
-    China Agricultural University
- 
+    PhD Student at Centre for Microbiome Research<br/>
+    Queensland University of Technology
+    
 location: >
-  College of Resources and Environmental Sciences<br/>
-  China Agricultural University<br/>
-  2 Yuanmingyuan Xilu, Beijing 1000193, P. R. China<br/>
+  Translational Research Institute<br/>
+  37 Kent Street, Woolloongabba QLD 4102<br/>
+  Australia<br/>
 
 contact: >
-    <a href="mailto:zhoux@cau.edu.cn" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Xi via email</a> <br/>
+    <a href="mailto:x55.zhou@hdr.qut.edu.au" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Xi via email</a> <br/>
     <a href="https://twitter.com/xzzhouxi" target="_blank"><i class="fa fa-twitter-square fa-1x"></i> Contact Xi via twitter</a><br/>
 
 # Pages shown in navbar
