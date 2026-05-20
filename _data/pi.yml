@@ -10,14 +10,14 @@
   twitter: https://twitter.com/xzzhouxi
   linkedin: https://www.linkedin.com/in/xizhou98/
   # Change the number below to the number of "educations" you have (up to 6)
-  number_educ: 3
-  education1: ""
+  number_educ: 1
+  education1: PhD Student at Centre for Microbiome Research, Queensland University of Technology
 
   # education4: 
   # education5: 
   # education6: 
-  education1short: She/her
-  education2short: PhD Student at Centre for Microbiome Research, Queensland University of Technology
+  education1short: PhD Student at Centre for Microbiome Research, Queensland University of Technology
+  # education2short: 
   # education2short: (2024) Master of Science (Agr.) in Plant Nutrition
   # education3short: (2022) B.S. Resources and Environmental Sciences, CAU
   # education4short: 
