@@ -21,12 +21,11 @@ Xi ZHOU
 PhD Student at Centre for Microbiome Research, Queensland University of Technology<br>
 Master of Science (Agr.) in Plant Nutrition, China Agriculture University
 
-
 #### Coordinates
 
-Level 3 – Translational Research Institute
-37 Kent Street,
-Woolloongabba QLD 4102,
+Level 3 – Translational Research Institute </br>
+37 Kent Street,</br>
+Woolloongabba QLD 4102,</br>
 Australia
 
 <div>
