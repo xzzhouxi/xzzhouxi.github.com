@@ -23,9 +23,9 @@ Master of Science (Agr.) in Plant Nutrition, China Agriculture University
 
 #### Coordinates
 
-Level 3 – Translational Research Institute </br>
-37 Kent Street,</br>
-Woolloongabba QLD 4102,</br>
+Level 3 – Translational Research Institute<br>
+37 Kent Street,<br>
+Woolloongabba QLD 4102,<br>
 Australia
 
 <div>
