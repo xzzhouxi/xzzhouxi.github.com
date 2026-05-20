@@ -18,14 +18,16 @@ permalink: /about/
 <h2>
 Xi ZHOU
 </h2>
-Master of Science (Agr.) in Plant Nutrition<br>
-China Agriculture University (CAU), P. R. China
+PhD Student at Centre for Microbiome Research, Queensland University of Technology<br>
+Master of Science (Agr.) in Plant Nutrition, China Agriculture University
 
 
 #### Coordinates
 
-19 Science Park West Avenue, Hong Kong Science Park<br>
-Pak Shek Kok, New Territories, Hong Kong SAR
+Level 3 – Translational Research Institute
+37 Kent Street,
+Woolloongabba QLD 4102,
+Australia
 
 <div>
 {% for member in site.data.pi %}
